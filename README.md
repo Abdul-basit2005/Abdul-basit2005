@@ -1,10 +1,10 @@
-# 💫 About Me:
+#  About Me:
 I am studying at Air University, Islamabad <br>
 I am doing BS Computer Science (BS-CS) <br>
 I am passionate about Machine Learning, Artificial Intelligence, Data Science, and technology
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-basittech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsabdulbasitoffical@gmail.com) 
 
 # 💻 Tech Stack:
